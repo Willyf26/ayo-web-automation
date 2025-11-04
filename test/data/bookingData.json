@@ -1,0 +1,15 @@
+{
+  "user": {
+    "email": "willyfebrian26@gmail.com",
+    "password": "Password123"
+  },
+  "booking": [
+    {
+      "city": "Jakarta Selatan",
+      "sport": "Badminton",
+      "time": "19:00",
+      "date": "2025-11-05",
+      "fieldName": "Lapangan 1"
+    }
+  ]
+}
