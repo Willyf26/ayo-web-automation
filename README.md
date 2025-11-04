@@ -45,8 +45,10 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
    Unduh di [https://nodejs.org](https://nodejs.org)
 2. **Google Chrome** versi terbaru
 3. **Allure Commandline** (opsional, untuk membuka laporan)
+   
    ```bash
    npm install -g allure-commandline --save-dev
+   ```
 
 ---
 
@@ -93,4 +95,5 @@ Laporan Allure akan menampilkan:
 - Screenshot dari setiap step yang sukses/gagal
 - Pesan log otomatis untuk lapangan atau jam yang penuh
 - Detail environment dan waktu eksekusi
+
 
