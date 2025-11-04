@@ -53,20 +53,20 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
 ## 🚀 Cara Menjalankan Test
 
 ### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/<username>/ayo-web-automation.git
-cd ayo-web-automation
-```
+   ```bash
+   git clone https://github.com/<username>/ayo-web-automation.git
+   cd ayo-web-automation
+   ```
 
 ### 2️⃣ Install Dependencies
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 ### 3️⃣ Jalankan Automation Test
-```bash
-npm run test
-```
+   ```bash
+   npm run test
+   ```
 
 Selama proses berjalan, sistem akan secara otomatis:
 
@@ -79,13 +79,13 @@ Selama proses berjalan, sistem akan secara otomatis:
 
 ### 📊 Laporan Hasil Pengujian (Allure Report)
 🔹 Generate Report
-```bash
-npm run allure:generate
-```
+   ```bash
+   npm run allure:generate
+   ```
 🔹 Buka Laporan
-```bash
-npm run allure:open
-```
+   ```bash
+   npm run allure:open
+   ```
 
 Laporan Allure akan menampilkan:
 
@@ -93,3 +93,4 @@ Laporan Allure akan menampilkan:
 - Screenshot dari setiap step yang sukses/gagal
 - Pesan log otomatis untuk lapangan atau jam yang penuh
 - Detail environment dan waktu eksekusi
+
